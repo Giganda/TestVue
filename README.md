@@ -1,2 +1,0 @@
-# TestVue
-Created with CodeSandbox
